@@ -17,8 +17,8 @@
 Thank you for visiting this repository which contain projects to learn about essential concept of programming Backend. Back-End Specialization curriculum at `Holberton School`.
 
 <p align="center">
-  <img width="380"  
-        src="https://thumbs.gfycat.com/EuphoricGlaringAnkolewatusi-max-1mb.gif"
+  <img width="300"  
+        src="https://i.giphy.com/media/p4NLw3I4U0idi/giphy.gif"
   >
 </p>
 
@@ -34,7 +34,7 @@ Thank you for visiting this repository which contain projects to learn about ess
 	
 ## About
 The projects in this repository cover:
-  *`Python`* for Backend.
+  ***`Python`*** for Backend.
 
 ## Requirements 
 
@@ -49,12 +49,22 @@ The projects in this repository cover:
 	
 ## General :page_with_curl:
 
+- All files will be interpreted/compiled on *`Ubuntu 20.04 LTS`* using  *` python3 `*  (version 3.7)
+- All files should end with a new line
+- The first line of all files should be exactly  *` #!/usr/bin/env python3 `* 
+- A  *` README.md `*  file, at the root of the folder of the project, is mandatory
+- The code should use the  *` pycodestyle `*  style (version 2.5.*)
+- The length of all files will be tested using  *` wc `* 
+- All modules should have a documentation ( *` python3 -c 'print(__import__("my_module").__doc__)' `* )
+- All functions should have a documentation ( *` python3 -c 'print(__import__("my_module").my_function.__doc__)' `* 
+- A documentation is not a simple word, it’s a real sentence explaining what’s the purpose of the module, class or method (the length of it will be verified)
+- All functions and coroutines must be type-annotated.
 
 ## Projects 
 
 | Project | Description |
 | :--- | :---|
-| **[0x00. MySQL advanced](./0x00-MySQL_Advanced)** | Implement `Stored Procedures`,`Views`, `Triggers` and `Functions` in ***MySQL***|
+| **[0x00. Pagination](./0x00-pagination)** | Implementing pagination to ***`Datasets`*** |
 
 ---
 
