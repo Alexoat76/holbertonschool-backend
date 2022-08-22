@@ -13,7 +13,7 @@
 This project contains some tasks how to implement and use ***`Pagination`*** for basic operations.
 
 <p align="center">
-  <img width="360"  
+  <img width="380"  
         src="https://19yw4b240vb03ws8qm25h366-wpengine.netdna-ssl.com/wp-content/uploads/Everything-You-Need-to-Know-About-API-Pagination-e1639671225295-1024x576.png"
   >
 </p>
