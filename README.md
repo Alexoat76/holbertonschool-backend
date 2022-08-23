@@ -65,7 +65,8 @@ The projects in this repository cover:
 | Project | Description |
 | :--- | :---|
 | **[0x00. Pagination](./0x00-pagination)** | Implementing pagination to ***`Datasets`*** |
-
+| **[0x01. Caching](./0x01-caching)** | Implementing Caching  ***`systems/algorithms`*** |
+	
 ---
 
 ## Credits
