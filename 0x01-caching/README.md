@@ -13,8 +13,8 @@
 This project contains some tasks for learning about the different caching algorithms.
 
 <p align="center">
-  <img width="380"  
-        src="https://19yw4b240vb03ws8qm25h366-wpengine.netdna-ssl.com/wp-content/uploads/Everything-You-Need-to-Know-About-API-Pagination-e1639671225295-1024x576.png"
+  <img width="350"  
+        src="https://thumbs.gfycat.com/DemandingBeautifulChameleon-max-1mb.gif"
   >
 </p>
 
@@ -31,8 +31,7 @@ This project contains some tasks for learning about the different caching algori
 
 ## About
 
-- ***[Pagination](https://intranet.hbtn.io/rltoken/WQA53HeWBUH2kAjxVnijfg)***
-
+- ***[Caching](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/resources/lecture-14-caching-and-cache-efficient-algorithms/)***
 
 ## Resources :books:
 Read or watch:
@@ -46,14 +45,6 @@ Read or watch:
 - **[Cache replacement policies - LRU](https://intranet.hbtn.io/rltoken/Rnwk-rnoyZz6qDrwJGzYfw)** 
 - **[Cache replacement policies - MRU](https://intranet.hbtn.io/rltoken/1sSLlFzowTEhU5YM4hmiWg)** 
 - **[Cache replacement policies - LFU](https://intranet.hbtn.io/rltoken/Jr1doOF0zxCJBIjg7hSTww)** 
-- What a caching system is
-- What FIFO means 
-- What LIFO means
-- What LRU means
-- What MRU means
-- What LFU means
-- What the purpose of a caching system
-- What limits a caching system have
 
 ## Requirements
 ### General
@@ -74,9 +65,8 @@ Read or watch:
 
 ### Parent class BaseCaching
 All your classes must inherit from   ` BaseCaching `   defined below:
-
 <details>
-  <summary><h3>Click to expand/hide file contents: :floppy_disk:</h3></summary>
+  <summary><h4>Click to expand/hide file contents: :floppy_disk:</h4></summary>
   
   ```python
   #!/usr/bin/python3
