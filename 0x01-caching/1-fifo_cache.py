@@ -20,9 +20,9 @@ class FIFOCache(BaseCaching):
             self.cache_data[key] = item
         if len(self.cache_data) > BaseCaching.MAX_ITEMS:
             # if the cache is full, remove the first item added
-            discard_key = list(self.cache_data.keys())[0]
-            self.cache_data.pop(discard_key)  # remove the first item added
-            print("DISCARD: ", discard_key)  # print the first item discarded
+            discarded_key = sorted(self.cache_data)[0]
+            self.cache_data.pop(discarded_key)  # remove the first item added
+            print("DISCARD: {}".format(discarded_key))
 
     def get(self, key):
         """ Get an item from the cache
