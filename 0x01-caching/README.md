@@ -13,7 +13,7 @@
 This project contains some tasks for learning about the different caching algorithms.
 
 <p align="center">
-  <img width="350"  
+  <img width="320"  
         src="https://thumbs.gfycat.com/DemandingBeautifulChameleon-max-1mb.gif"
   >
 </p>
