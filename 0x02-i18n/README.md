@@ -13,7 +13,7 @@
 This project contains some tasks for learning about how to parametrize **` Flask `** templates to display different languages.
 
 <p align="center">
-  <img width="320"  
+  <img width="280"  
         src="https://www.pistalix.in/wp-content/uploads/2018/11/flask.gif"
   >
 </p>
