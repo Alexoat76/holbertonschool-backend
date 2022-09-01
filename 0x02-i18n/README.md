@@ -265,13 +265,13 @@ Displaying the time in French looks like this:
 
 **Bonjour monde!** <br>
 *Vous êtes connecté en tant que Spock.*<br>
-*Nous sommes le 19 mars 2020 à * 18:20:06.*
+*Nous sommes le 1 sept. 2022, 12:12:58.*
 
 Displaying the time in English looks like this:
 
 **Hello world!** <br>
 *You are logged in as Beyonce.*<br>
-*The current time is Mar 19, 2020, 6:20:24 PM.*
+*The current time is Sep 1, 2022, 7:14:56 AM.*
 
 ----
 
