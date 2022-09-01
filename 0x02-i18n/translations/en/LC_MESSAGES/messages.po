@@ -21,7 +21,7 @@ msgstr ""
 #: templates/3-index.html:5 templates/4-index.html:5 templates/5-index.html:5
 #: templates/6-index.html:5 templates/7-index.html:5 templates/index.html:5
 msgid "home_title"
-msgstr ""Welcome to Holberton""
+msgstr "Welcome to Holberton"
 
 #: templates/3-index.html:13 templates/4-index.html:13
 #: templates/5-index.html:13 templates/6-index.html:13
@@ -40,3 +40,7 @@ msgstr "You are logged in as %(username)s."
 #: templates/7-index.html:17
 msgid "not_logged_in"
 msgstr "You are not logged in."
+
+#: templates/index.html 
+msgid "current_time_is"
+msgstr "The current time is %(current_time)s."
