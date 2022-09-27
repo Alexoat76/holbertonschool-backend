@@ -11,12 +11,12 @@
 
 ---
 
-# 0x02. i18n
+# 0x03. Queuing System in JS
 
-This project contains some tasks for learning about how to use a Redis client with Node JS for basic and advanced operations. Additionally how to build a basic Express app interacting with a Redis server and queues.
+This project contains some tasks for learning about how to use a *` Redis client `* with *` Node JS `* for basic and advanced operations. Additionally how to build a basic *` Express `* app interacting with a *`Redis server `* and *` queues `*.
 
 <p align="center">
-  <img width="280"  
+  <img width="320"  
         src="https://assets.northflank.com/noderedis_bd32becbf1.png"
   >
 </p>
@@ -28,20 +28,19 @@ This project contains some tasks for learning about how to use a Redis client wi
 * [About](#about)
 * [Resources](#resources-books)
 * [Requirements](#requirements)
-* [Files](#files-file_folder)
 * [Tasks](#tasks)
 * [Credits](#credits)
 
 ## About
 
-- How to run a Redis server on your machine
+- How to run a *` Redis server `* on your machine
 - How to run simple operations with the Redis client
-- How to use a Redis client with Node JS for basic operations
-- How to store hash values in Redis
-- How to deal with async operations with Redis
-- How to use Kue as a queue system
-- How to build a basic Express app interacting with a Redis server
-- How to the build a basic Express app interacting with a Redis server and queue
+- How to use a *` Redis client `* with *` Node JS `* for basic operations
+- How to store hash values in *` Redis `*
+- How to deal with async operations with *`Redis `*
+- How to use *` Kue `* as a queue system
+- How to build a basic *` Express `* app interacting with a *` Redis server `*
+- How to the build a basic *` Express `* app interacting with a *` Redis server `* and *` queue `*
 
 ## Resources :books:
 Read or watch:
@@ -59,7 +58,7 @@ deprecated but still use in the industry
 ## Requirements
 ### General
 
-- All files will be interpreted/compiled on *`Ubuntu 18.04 LTS`* **Node** 12.x, and **Redis** 5.0.7
+- All files will be interpreted/compiled on *`Ubuntu 18.04 LTS`*, *`Node 12.x `*, and *`Redis 5.0.7 `*
 - All files should end with a new line
 - A  *` README.md `*  file, at the root of the folder of the project, is mandatory
 - The code should use the *` js `* extension
