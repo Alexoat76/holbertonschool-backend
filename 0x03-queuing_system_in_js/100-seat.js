@@ -1,4 +1,5 @@
 #!/usr/bin/yarn dev
+
 import express from 'express';
 import { promisify } from 'util';
 import { createQueue } from 'kue';
