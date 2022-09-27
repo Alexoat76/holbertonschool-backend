@@ -3,6 +3,10 @@
 <img src="https://img.shields.io/badge/Shell-ligthgreen.svg"/>
 <img src="https://img.shields.io/badge/Vim-green.svg"/>
 <img src="https://img.shields.io/badge/Python-blue.svg"/>
+<img src="https://img.shields.io/badge/JavaScript-yellow.svg"/>
+<img src="https://img.shields.io/badge/Redis-darkred.svg"/>
+<img src="https://img.shields.io/badge/NodeJS-gold.svg"/>
+<img src="https://img.shields.io/badge/Express-darkslategray.svg"/>
 <img src="https://img.shields.io/badge/Markdown-black.svg"/><br>
 <img src="https://img.shields.io/github/repo-size/Alexoat76/holbertonschool-backend"/>
 <img src="https://img.shields.io/github/languages/code-size/Alexoat76/holbertonschool-backend.svg"/>
@@ -49,7 +53,7 @@ The projects in this repository cover:
 	
 ## General :page_with_curl:
 
-- All files will be interpreted/compiled on *`Ubuntu 20.04 LTS`* using  *` python3 `*  (version 3.7)
+- All files will be interpreted/compiled on *`Ubuntu 20.04 LTS`* using  *` python3 `* (version 3.7), *`Node 12.x `*, and *`Redis 5.0.7 `* when corresponding
 - All files should end with a new line
 - The first line of all files should be exactly  *` #!/usr/bin/env python3 `* 
 - A  *` README.md `*  file, at the root of the folder of the project, is mandatory
@@ -59,6 +63,7 @@ The projects in this repository cover:
 - All functions should have a documentation ( *` python3 -c 'print(__import__("my_module").my_function.__doc__)' `* 
 - A documentation is not a simple word, it’s a real sentence explaining what’s the purpose of the module, class or method (the length of it will be verified)
 - All functions and coroutines must be type-annotated.
+- The code should use the *` js `* extension when corresponding
 
 ## Projects 
 
