@@ -681,7 +681,6 @@ Sending notification to 4153818782, with message: This is the code 4321 to verif
 Sending notification to 4154318781, with message: This is the code 4562 to verify your account
 Sending notification to 4151218782, with message: This is the code 4321 to verify your account
 
-
 ```
 And in the same time in terminal 1:
 
